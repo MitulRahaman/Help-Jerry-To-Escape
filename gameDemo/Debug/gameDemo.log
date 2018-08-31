@@ -1,0 +1,10 @@
+﻿  iMain.cpp
+c:\users\parsia\desktop\gameeee\panda\menu - copy - copy - copy\game\gamedemo\gamedemo\myheader.h(36): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\parsia\desktop\gameeee\panda\menu - copy - copy - copy\game\gamedemo\gamedemo\imain.cpp(61): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\parsia\desktop\gameeee\panda\menu - copy - copy - copy\game\gamedemo\gamedemo\imain.cpp(80): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(640): note: see declaration of '_itoa'
+c:\users\parsia\desktop\gameeee\panda\menu - copy - copy - copy\game\gamedemo\gamedemo\imain.cpp(235): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  gameDemo.vcxproj -> C:\Users\PARSIA\Desktop\gameeee\panda\Menu - Copy - Copy - Copy\game\gameDemo\Debug\gameDemo.exe
